@@ -1,7 +1,9 @@
-Esta es la vida de Michael Donado.
+Hello my name is Michael Donado.
 
-Tengo 19 años, 
-nacio en Colombia y él quiere vivir en Canadá, 
-estoy en 5to semestre de Ing. Sistemas.
 
-Estoy aprendiendo git y git hub.
+I´m  19 years old, I´m from Colombia.
+I want living in Canadá.
+I study system engeneering.
+I´m lerarning git and git hub in platzi.
+
+
