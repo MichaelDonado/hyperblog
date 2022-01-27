@@ -1,7 +1,7 @@
 Esta es la vida de Michael Donado.
 
 Tengo 19 años, 
-nací en Colombia y él quiere vivir en Canadá, 
+nacio en Colombia y él quiere vivir en Canadá, 
 estoy en 5to semestre de Ing. Sistemas.
 
 Estoy aprendiendo git y git hub.
